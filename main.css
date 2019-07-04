@@ -1,0 +1,158 @@
+body{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("img/natureBackground.png");	
+	opacity: 70%;
+}
+
+.logo{
+	margin: auto;
+	height: 120px;
+	width:140px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+.logo-parent{
+	padding-top: 30px;
+	padding-left: 60px;
+
+}
+
+
+h2{
+color: white;
+font-family: arial;
+padding-left: 15px;
+}
+h4{
+color: white;
+font-family: Segoe Script;
+
+}
+
+.parent{
+	padding-left: 30px;
+ }
+ .login{
+ 	padding-top: 15px;
+ }
+ .username{
+
+   border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: white;
+    font-size: 16px;
+     width: 300px;
+   
+ }
+ .password{
+
+ 
+ 	  border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+     width: 300px
+ }
+
+ .login-button{
+ 	padding-top: 30px;
+ 	width: 300;
+ 	margin-bottom:5px;
+ }
+
+ 
+ .forgot-password{
+ 	color:white;
+ 	padding-left: 199px;
+ 	padding-top: 10px;
+ 	font-size: 14px;
+
+ }
+
+ .signup
+ {
+ 	display: flex;
+ 	color:white;
+ 	padding-left: 10px;
+ 	padding-top: 13px;
+
+ }
+
+ .dont-have-account{
+ 	padding-left: 50px;
+ 	display: flex;
+ 	color:white;
+ 	padding-bottom: : 50px;
+
+ }
+.dont-have-account-2{
+ color: gray;
+ }
+
+ .verify
+ {
+padding-top: 100px;
+padding-left: 32px;
+}
+.reset-password-label{
+	font-size: 20px;
+	color: white;
+	text-align:center;
+	padding-top:75px;
+}
+
+
+
+.deals-car{
+	width: 57px;
+	height: 50px;
+
+
+
+
+}
+.deals-plane{
+	width: 50px;
+	height: 50px;
+	margin-left: 105px;
+
+}
+.deals-building{
+	width: 50px;
+	height: 50px;
+
+}
+.deals-bus{
+	width: 50px;
+	height: 50px;
+	margin-left: 110px;
+
+}
+
+	
+.car-plane{
+	padding-top: 100px;
+	padding-left: 70px;
+
+}
+.building-bus{
+	padding-top: 100px;
+	padding-left: 70px;
+}
+.deals{
+	text-align: center;
+	font-size: 22px;
+	color: white;
+	padding-top: 60px;
+}
+.word-grab{
+	 
+}
+.word-flight{
+}
